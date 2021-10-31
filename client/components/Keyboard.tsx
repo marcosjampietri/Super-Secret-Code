@@ -4,7 +4,9 @@ import { createRef, useState } from "react";
 }
 import styled from "styled-components";
 
-import { getWordsAction } from "../store/actions/wordsAction";
+{
+    /* import { getWordsAction } from "../store/actions/wordsAction"; */
+}
 
 const Keyboard = () => {
     const digits = [
